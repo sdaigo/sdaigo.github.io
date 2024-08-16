@@ -4,11 +4,87 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>sdaigo.github.io</title>
+  <title>Home | Daigo Shitara</title>
+  <link rel="canonical" href="https://sdaigo.github.io">
+  <meta name="title" content="Home | Daigo Shitara">
+  <meta name="description" content="Front-end developer">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      max-width: 42rem;
+      min-height: 100vh;
+      margin: 0 auto;
+      padding: 4rem 2rem 1rem 2rem;
+      font-family: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+      font-optical-sizing: auto;
+      font-weight: normal;
+      line-height: 1.6;
+      color: #222;
+      font-size: .875rem;
+      background-color: #f8f8f8;
+    }
+
+    *::selection {
+      background-color: #F7DA07;
+    }
+
+    h2,
+    h3,
+    h4,
+    h5 {
+      font-weight: 400;
+    }
+
+    h2 {
+      margin-top: 3rem;
+      font-weight: bold;
+    }
+
+    h3 {
+      margin-top: 1.5rem;
+      font-weight: medium;
+    }
+
+    ul {
+      list-style-type: "- ";
+      margin: 2rem 0;
+      padding-left: 1.5rem;
+    }
+
+    li {
+      margin: 0.5rem 0;
+    }
+
+    a {
+      color: #222;
+      font-weight: 500;
+    }
+
+    strong {
+      color: #5784EF;
+    }
+
+    footer {
+      display: flex;
+      flex-direction: column;
+      padding: 2rem 0;
+      color: #969792;
+    }
+  </style>
 </head>
 
 <body>
-  {{.}}
+  <main>
+    {{content}}
+  </main>
+  <footer>
+    <small>Built with Gleam. Updated: {{timestamp}}</small>
+    <p>
+      <small>&copy; {{year}} Daigo Shitara. All rights reserved.</small>
+    </p>
+  </footer>
 </body>
 
 </html>
