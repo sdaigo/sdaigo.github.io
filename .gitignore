@@ -4,4 +4,4 @@
 erl_crash.dump
 
 # artifact
-docs/index.html
+dist
