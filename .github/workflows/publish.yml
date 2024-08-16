@@ -35,7 +35,7 @@ jobs:
       - run: gleam run
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/index.html
+          path: ./docs/index.html
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
