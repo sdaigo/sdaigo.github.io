@@ -4,4 +4,4 @@
 erl_crash.dump
 
 # artifact
-public/index.html
+docs/index.html
