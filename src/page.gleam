@@ -16,5 +16,5 @@ pub fn main() {
   let assert Ok(html) = handles.run(tmpl, ctx.Str(content), [])
 
   let assert Ok(_) =
-    html |> string_builder.to_string |> write(to: "public/index.html")
+    html |> string_builder.to_string |> write(to: "docs/index.html")
 }
