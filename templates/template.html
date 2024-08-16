@@ -72,11 +72,26 @@
       padding: 2rem 0;
       color: #969792;
     }
+
+    .blink {
+      animation: blink .7s infinite alternate;
+    }
+
+    @keyframes blink {
+      0% {
+        color: transparent;
+      }
+
+      100% {
+        color: #222;
+      }
+    }
   </style>
 </head>
 
 <body>
   <main>
+    <h1>><span class="blink">_</span></h1>
     {{content}}
   </main>
   <footer>
