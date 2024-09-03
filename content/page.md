@@ -2,7 +2,7 @@ Hello, I’m **Daigo Shitara**. As a frontend engineer with a background in desi
 
 I value continuous learning and growth, always seeking to master new technologies to deliver value to users. Moving forward, I aim to leverage frontend technologies to provide seamless and enjoyable experiences for users.
 
-Find me on [GitHub](https://github.com/sdaigo) | [Dribbble](https://dribbble.com/daigo3) | [Zenn](https://zenn.dev/d3g) | [tumblr](https://daigo3.tumblr.com/)
+Find me on [GitHub](https://github.com/sdaigo) | [Dribbble](https://dribbble.com/daigo3) | [Zenn](https://zenn.dev/d3g) | [tumblr](https://daigo3.tumblr.com/) | [Miyazaki.js](https://miyazakijs.connpass.com/)
 
 ## Works_
 
