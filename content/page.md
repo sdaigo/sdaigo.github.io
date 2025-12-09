@@ -1,32 +1,16 @@
-Hello, I’m **Daigo Shitara**. As a frontend engineer with a background in design, I am passionate about developing beautiful and functional web applications that prioritize user experience.
+Hello, I’m *Daigo Shitara*. As a frontend engineer with a background in design, I am passionate about developing beautiful and functional web applications that prioritize user experience.
 
 I value continuous learning and growth, always seeking to master new technologies to deliver value to users. Moving forward, I aim to leverage frontend technologies to provide seamless and enjoyable experiences for users.
 
-Find me on [GitHub](https://github.com/sdaigo) | [Dribbble](https://dribbble.com/daigo3) | [Zenn](https://zenn.dev/d3g) | [tumblr](https://daigo3.tumblr.com/) | [Miyazaki.js](https://miyazakijs.connpass.com/)
-
-## Works_
-
-├── **nx**  
-│&nbsp;&nbsp;&nbsp;├── Opinionated Next.js scaffolding tool  
-│&nbsp;&nbsp;&nbsp;├── \[Bun/TypeScript/Biome\]  
-│&nbsp;&nbsp;&nbsp;└── [GitHub](https://github.com/sdaigo/nx)  
-│  
-├── **six**  
-│&nbsp;&nbsp;&nbsp;├── Modular and Layered architecture with Next.js  
-│&nbsp;&nbsp;&nbsp;├── \[Bun/TypeScript/Next.js/Panda CSS/Ark UI/Biome\]  
-│&nbsp;&nbsp;&nbsp;└── [GitHub](https://github.com/sdaigo/six)  
-│  
-└── **breath.css**  
-&nbsp;&nbsp;&nbsp;&nbsp;├── Classless CSS library  
-&nbsp;&nbsp;&nbsp;&nbsp;├── \[CSS\]  
-&nbsp;&nbsp;&nbsp;&nbsp;└── [GitHub](https://github.com/sdaigo/breath.css)
-
+Find me on [GitHub](https://github.com/sdaigo) | [Dribbble](https://dribbble.com/daigo3) | [Zenn](https://zenn.dev/d3g) | [tumblr](https://daigo3.tumblr.com/) 
 
 ## Toolbox_
 
-JavaScript/TypeScript/Python
+**Primary:**
+JavaScript/TypeScript
 
-‴ Currently working with Gleam/OCaml/Elixir ♥︎
+**Exploring:**
+Bun/Gleam/Elixir/Golang ♥︎
 
 ## Speaking_
 
@@ -37,11 +21,9 @@ JavaScript/TypeScript/Python
 
 ## Experience_
 
-### 〰️ 2019-present | **Frontend Lead**
+### 〰️ 2019 - Present | *Frontend Lead*
 
-Frontend Division Manager of the development team.
-
-I am responsible for the following in enterprise applications:
+Leading the frontend development for enterprise applications. I oversee the entire process from design to architecture.
 
 - Product design in collaboration with clients
 - UX/UI design and UI design
@@ -49,16 +31,18 @@ I am responsible for the following in enterprise applications:
 - Standardization of frontend development for major system integrators (including reference implementation and documentation)
 - Technology selection
 
-\[React/Redux/Ramda/Next.js/Storybook/Panda CSS/PyTorch/HuggingFace/etc...\]
+\[React/Redux/Ramda/Next.js/Storybook/Panda CSS/MUI/etc...\]
 
-### 〰️ 2017-2019 | **UI Engineer**
+### 〰️ 2017 - 2019 | *UI Engineer*
 
-Frontend/Backend Development for a Medical Startup
+Engaged in both frontend and backend development. Played a key role in bridging planning, design, and implementation.
 
-I was primarily involved in planning and design, followed by creating prototypes that led to implementation as a UI engineer, as well as UI implementation and backend development.
+- Prototyping and UI implementation.
+- Backend development (Node.js).
 
 \[React/Redux/Node.js/Electron/etc...\]
 
-### 〰️ 2011-2017 | **Frontend Devloper**
+### 〰️ 2011 - 2017 | *Frontend Developer*
 
-UI design and frontend development for small to medium-sized projects.
+*Web Production*
+Focused on UI design and frontend development for small to medium-sized projects.
